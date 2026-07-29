@@ -1,29 +1,29 @@
-# Arthur Couitnho
+# Arthur Coutinho
 
-**`Desenvolvedora FullStack`**
+**`Full Stack Developer`**
 
-Me chamo Arthur Rocha Coutinho, tenho 21 anos e sou natural do Mato Grosso. Concluí o ensino médio no Fernando Corrêa. Atualmente, estou cursando Sistemas de Informação na UFMS. Sou apaixonado solução de problemas e novas tecnologia. Me siga no instagram também [arthurrcoutinho_](https://www.instagram.com/arthurrcoutinho_/)! 
+My name is Arthur Rocha Coutinho, I am 21 years old, and I am from Mato Grosso, Brazil. I am currently studying Information Systems at UFMS. I am passionate about problem-solving and new technologies. Follow me on Instagram too: [arthurrcoutinho_](https://www.instagram.com/arthurrcoutinho_/)! 
 
 <p align="left">
     <a href="https://github.com/ArthurCoutinhoSI?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/ArthurCoutinhoSI?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="Total of Stars" 
+            title="Total of Stars GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/ArthurCoutinhoSI?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
         />
     </a>
     <a href="https://github.com/ArthurCoutinhoSI?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/ArthurCoutinhoSI?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="Followers" 
+            title="Follow me on Github" 
+            src="https://custom-icon-badges.demolab.com/github/followers/ArthurCoutinhoSI?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow&logoColor=white"
         />
     </a>
 </p>
 
 ---
 
-### Linguagens e Tecnologias
+### Tecnologies and Languages
 
 <img 
     align="left" 
@@ -146,6 +146,15 @@ Me chamo Arthur Rocha Coutinho, tenho 21 anos e sou natural do Mato Grosso. Conc
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<img
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+></img>
 <img 
     align="left" 
     alt="Git" 
@@ -158,22 +167,29 @@ Me chamo Arthur Rocha Coutinho, tenho 21 anos e sou natural do Mato Grosso. Conc
 <br/>
 <br/>
 
-### 📊 Estatísticas
+  <h3> Projects </h3>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ArthurCoutinhoSI&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+  <p align="left">
+    <a href="https://github.com/ArthurCoutinhoSI/Sistema-de-Controle-Financeiro-Pessoal"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ArthurCoutinhoSi&repo=Sistema-de-Controle-Financeiro-Pessoal&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Sistema-de-Controle-Financeiro-Pessoal"></a>
+    <a href="https://github.com/Bressane06/sgcm"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bressane06&repo=sgcm&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/ArthurCoutinhoSI/Simulador-de-Gerenciamento-de-Memoria-Principal-e-Virtual"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ArthurCoutinhoSI&repo=Simulador-de-Gerenciamento-de-Memoria-Principal-e-Virtual&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/Bressane06/Trabalho-Estrutura-de-Dados-Renamault"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bressane06&repo=Trabalho-Estrutura-de-Dados-Renamault&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/Bressane06/ToolShare-Sistema-Emprestimo-Ferramentas"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bressane06&repo=ToolShare-Sistema-Emprestimo-Ferramentas&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/ArthurCoutinhoSI/Estacao-de-Manutencao-Galatico"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ArthurCoutinhoSI&repo=Estacao-de-Manutencao-Galatico&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCoutinhoSI&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  <h3> Github Profile Stats </h3>
 
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ArthurCoutinhoSI's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ArthurCoutinhoSI&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ArthurCoutinhoSI's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ArthurCoutinhoSI&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+
+  <b>Note:</b> Top Linguagens é uma 
+  Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ArthurCoutinhoSI's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ArthurCoutinhoSI&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </p>
