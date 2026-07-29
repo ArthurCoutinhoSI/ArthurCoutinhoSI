@@ -177,6 +177,17 @@ My name is Arthur Rocha Coutinho, I am 21 years old, and I am from Mato Grosso, 
     <a href="https://github.com/Bressane06/ToolShare-Sistema-Emprestimo-Ferramentas"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bressane06&repo=ToolShare-Sistema-Emprestimo-Ferramentas&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/ArthurCoutinhoSI/Estacao-de-Manutencao-Galatico"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ArthurCoutinhoSI&repo=Estacao-de-Manutencao-Galatico&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
 
+ <h3>🔥 Streak Stats</h3>
+
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ArthurCoutinhoSI's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=ArthurCoutinhoSI&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+    </a>
+    <p>Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+  </p>
+
   <h3> Github Profile Stats </h3>
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
