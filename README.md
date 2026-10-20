@@ -203,8 +203,6 @@ My name is Arthur Rocha Coutinho, I am 21 years old, and I am from Mato Grosso, 
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
   <h3>Contibuitions</h3>
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ArthurCoutinhoSI's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ArthurCoutinhoSI&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArthurCoutinhoSI/ArthurCoutinhoSI/output/snake-dark.svg">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArthurCoutinhoSI/ArthurCoutinhoSI/output/snake.svg">
