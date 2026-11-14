@@ -167,6 +167,7 @@ My name is Arthur Rocha Coutinho, I am 21 years old, and I am from Mato Grosso, 
 <br/>
 <br/>
 
+<!--
   <h3> Projects </h3>
 
   <p align="left">
@@ -176,6 +177,7 @@ My name is Arthur Rocha Coutinho, I am 21 years old, and I am from Mato Grosso, 
     <a href="https://github.com/Bressane06/Trabalho-Estrutura-de-Dados-Renamault"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bressane06&repo=Trabalho-Estrutura-de-Dados-Renamault&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/Bressane06/ToolShare-Sistema-Emprestimo-Ferramentas"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bressane06&repo=ToolShare-Sistema-Emprestimo-Ferramentas&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/ArthurCoutinhoSI/Estacao-de-Manutencao-Galatico"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ArthurCoutinhoSI&repo=Estacao-de-Manutencao-Galatico&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+-->
 
  <h3>🔥 Streak Stats</h3>
 
@@ -191,15 +193,8 @@ My name is Arthur Rocha Coutinho, I am 21 years old, and I am from Mato Grosso, 
   <h3> Github Profile Stats </h3>
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
+[![ArthurCoutinho's GitHub stats](https://github-stats-extended.vercel.app/api?username=ArthurCoutinhoSI&theme=react)](https://github.com/stats-organization/github-stats-extended)
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ArthurCoutinhoSI's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ArthurCoutinhoSI&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ArthurCoutinhoSI's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ArthurCoutinhoSI&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-  <br/>
-
-  <b>Note:</b> Top Linguagens é uma 
-  Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
   <h3>Contibuitions</h3>
